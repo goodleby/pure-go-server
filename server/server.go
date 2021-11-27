@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"example.com/api/env"
+	"github.com/goodleby/pure-go-server/env"
 )
 
 type Handler func(w http.ResponseWriter, r *http.Request)

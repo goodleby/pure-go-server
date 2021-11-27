@@ -1,4 +1,4 @@
-module example.com/api
+module github.com/goodleby/pure-go-server
 
 go 1.17
 

@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"example.com/api/handlers"
-	"example.com/api/server"
+	"github.com/goodleby/pure-go-server/handlers"
+	"github.com/goodleby/pure-go-server/server"
 )
 
 func main() {
