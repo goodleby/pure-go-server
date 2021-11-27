@@ -1,0 +1,8 @@
+# Secret
+.env
+
+# VSCode IDE
+__debug_bin
+
+# OSX
+.DS_Store
